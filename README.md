@@ -10,6 +10,19 @@ This project analyzes an e-commerce dataset to uncover insights related to custo
 - SQL Server
 - GitHub
 
+## Dataset
+
+The dataset contains information about:
+
+- Website sessions
+- Orders
+- Order items
+- Refunds
+- Products
+- Marketing campaigns
+
+The analysis focuses on customer behavior, conversion performance, revenue generation, and product profitability.
+
 ## Business Questions
 
 1. Which traffic source drives the highest number of orders?
