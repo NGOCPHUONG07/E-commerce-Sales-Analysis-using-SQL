@@ -66,3 +66,6 @@ The analysis focuses on customer behavior, conversion performance, revenue gener
 - Revenue Analysis
 - Business Insight Generation
 Create README
+## Power BI File
+
+Due to GitHub file size limitations, the Power BI (.pbix) file is available upon request.
